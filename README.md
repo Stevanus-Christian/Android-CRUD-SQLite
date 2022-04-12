@@ -3,20 +3,15 @@
 </p>
 <br>
 # Android CRUD SQLite
+<br>
 Simple Android CRUD with SQLite Program
 <br>
 <table style="width:100%">
   <tr>
-    <td>Create</td>
-    <td>Read</td>
-    <td>Update</td>
-    <td>Delete</td>
-  </tr>
-  <tr>
-    <td>=</td>
-    <td>=</td>
-    <td>=</td>
-    <td>=</td>
+    <th>Create</th>
+    <th>Read</th>
+    <th>Update</th>
+    <th>Delete</th>
   </tr>
   <tr>
     <td>click on Floating Action Button to insert data</td>
