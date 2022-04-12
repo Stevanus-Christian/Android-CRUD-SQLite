@@ -14,8 +14,8 @@ Simple Android CRUD with SQLite Program
     <th>Delete</th>
   </tr>
   <tr>
-    <td>click on Floating Action Button to insert data</td>
-    <td>Automatically shown on main activity when with Card View (when data != null)</td>
+    <td>Click on Floating Action Button to Insert data</td>
+    <td>Data automatically shown on main activity with Card View when data is not null</td>
     <td>Long click on Card View and choose Update</td>
     <td>Long click on Card View and choose Delete</td>
   </tr>
