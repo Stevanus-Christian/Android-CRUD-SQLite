@@ -2,8 +2,8 @@
   <img src="https://github.com/Stevanus-Christian/Android-CRUD-SQLite/blob/main/SQLite370.svg">
 </p>
 <br>
-# Android CRUD SQLite
-<br>
+
+# Android CRUD SQLite with Java
 Simple Android CRUD with SQLite Program
 <br>
 <table style="width:100%">
@@ -22,7 +22,9 @@ Simple Android CRUD with SQLite Program
 </table>
 
 # License
-[<b>Do What The F*ck You Want To Public License</b>] (http://www.wtfpl.net/)
+<b>Do What The F*ck You Want To Public License</b> 
+<br>
+For more information click [here].(http://www.wtfpl.net/)
 
 # How To Use
 1. Clone or Download this project
