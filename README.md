@@ -4,7 +4,7 @@
 <br>
 
 # Android CRUD SQLite with Java
-Simple Android CRUD with SQLite Program
+Simple Android CRUD with SQLite Program written in Java
 <br>
 <table style="width:100%">
   <tr>
