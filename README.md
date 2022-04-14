@@ -24,7 +24,7 @@ Simple Android CRUD with SQLite Program written in Java
 # License
 <b>Do What The F*ck You Want To Public License</b> 
 <br>
-For more information click [here](http://www.wtfpl.net/).
+For more information click [here](http://www.wtfpl.net/about/).
 
 # How To Use
 1. Clone or Download this project
